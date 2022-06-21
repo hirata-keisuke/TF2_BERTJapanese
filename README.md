@@ -1,1 +1,3 @@
 # TF2_BERTJapanese
+
+TensorFlow 2系とHuggingfaceから落とした東北大の日本語BERTで、いろいろなタスクについて学習させる
