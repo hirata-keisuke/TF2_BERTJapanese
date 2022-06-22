@@ -1,6 +1,10 @@
 # TF2_BERTJapanese
 
-TensorFlow 2系とHuggingfaceから落とした東北大の日本語BERTで、いろいろなタスクについて学習させる
+TensorFlow 2系とHuggingfaceから落とした東北大の日本語BERTで、いろいろなタスクについて学習させる。
+
+# 参考文献
+
+* BERTによる自然言語処理入門 Transformersを使った実践プログラミング
 
 ## classifiy_sentences
 
