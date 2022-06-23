@@ -19,3 +19,9 @@ TensorFlow 2系とHuggingfaceから落とした東北大の日本語BERTで、�
 文章を読んで、ラベルをつける。必要であれば複数のラベルをつける。今回は、ポジティブ、ネガティブ、ニュートラルのラベルをつける。
 
 * データセット：chABSAデータセット
+
+## extract_ner
+
+## correction_press
+
+## search_similar_sentence
